@@ -27,7 +27,7 @@ For now We support two types of indexing:
 
 ### Clone The Project
 ```sh
-git clone https://github.com/Abdulrahman-Tayara/documents-search-engine.git
+git clone https://github.com/Amjadalrefayi/IR_project.git
 ```
 
 ### Setup The Server
@@ -48,7 +48,7 @@ python main.py
 ### Setup UI
 To work with our UI you've to install Flutter and clone this project
 ```sh
-git clone https://github.com/Abdulrahman-Tayara/documents-search-engine.git
+git clone https://github.com/NajatiShehabi/IR_Project2023.git
 ```
 
 [//]: # (## Train Your Model)
